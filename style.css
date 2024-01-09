@@ -1,0 +1,36 @@
+.heading {
+    font-size: 23px;
+    width: 100%;
+    margin: 0px;
+    box-shadow: 5px 5px 5px rgb(78, 35, 164);
+}
+
+.note {
+    font-size: 15px;
+    color: rgb(88, 228, 174);
+}
+
+.copyFoot {
+    position: fixed;
+    margin: 5px;
+    background-color: rgba(194, 233, 122, 0.717);
+    padding: 5px;
+    bottom: 0;
+}
+
+canvas {
+    border: 5px solid rgb(10, 171, 96);
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px rgba(177, 49, 49, 0.813);
+}
+
+#difference {
+    color: black;
+    font-size: 13px;
+}
+
+kbd {
+    text-align: center;
+    font-size: 25px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
